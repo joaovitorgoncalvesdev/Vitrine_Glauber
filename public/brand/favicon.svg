@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Vitrine Glauber</title>
+  <rect width="96" height="96" rx="20" fill="#2455C7"/>
+  <path fill="#fff" d="M13 23h70v9H68L56 77H40L27 32H13v-9Zm25 9 10 34 10-34H38Z" fill-rule="evenodd"/>
+  <path fill="#FFD449" d="M13 23h20v9H13z"/>
+  <path fill="#E84D93" d="M71 23h12v9H71z"/>
+</svg>

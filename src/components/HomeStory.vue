@@ -1,0 +1,4 @@
+<template>
+  <section class="story-section"><div class="page-container story-grid"><div class="story-image-wrap"><span class="story-label">Histórias locais</span><img src="/images/produtos-artesanais.png" alt="Seleção de cerâmicas, tecidos, sabonetes e conservas artesanais" class="story-image" loading="lazy" decoding="async" width="900" height="900" /></div><div class="story-copy"><span class="section-kicker">Quem faz o Glauber</span><h2>Mais que produtos, histórias de quem faz.</h2><p>Cada box reúne saberes, trabalho e identidade local. A Vitrine Glauber aproxima você dessas trajetórias.</p><div class="story-facts"><div><q-icon name="handshake" /><span>Contato direto com cada expositor</span></div><div><q-icon name="place" /><span>Retirada e visita no centro cultural</span></div></div><q-btn class="story-link" flat no-caps icon-right="arrow_forward" label="Conheça o projeto" to="/sobre" /></div></div></section>
+</template>
+
